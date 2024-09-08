@@ -1,0 +1,13 @@
+{
+    "name": "stive/taller2",
+    "description": "Taller 2",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "dompdf/dompdf": "^3.0",
+        "guzzlehttp/guzzle": "^7.9"
+    }
+}
